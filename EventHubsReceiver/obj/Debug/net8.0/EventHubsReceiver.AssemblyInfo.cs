@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventHubsReceiver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4071b37cd23f57244b09efa3307b349dfb06c279")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caddf39fefd84d1ba164d7dd8eb990689dbb839e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventHubsReceiver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventHubsReceiver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

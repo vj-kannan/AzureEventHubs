@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PoQ4b3lAFs8=",
+  "dgSpecHash": "Hd/Z/06m2es=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vijay\\source\\repos\\AzureEventHubs\\EventHubsQuickStart\\EventHubsReceiverPasswordLess\\EventHubsReceiverPasswordLess.csproj",
+  "projectFilePath": "C:\\Users\\vijay\\source\\repos\\AzureEventHubs\\AzureEventHubs\\EventHubsQuickStart\\EventHubsReceiverPasswordLess\\EventHubsReceiverPasswordLess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vijay\\.nuget\\packages\\azure.core\\1.40.0\\azure.core.1.40.0.nupkg.sha512",
     "C:\\Users\\vijay\\.nuget\\packages\\azure.core.amqp\\1.3.0\\azure.core.amqp.1.3.0.nupkg.sha512",

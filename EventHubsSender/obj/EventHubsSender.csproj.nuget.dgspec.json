@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vijay\\source\\repos\\AzureEventHubs\\EventHubsQuickStart\\EventHubsSender\\EventHubsSender.csproj": {}
+    "C:\\Users\\vijay\\source\\repos\\AzureEventHubs\\AzureEventHubs\\EventHubsQuickStart\\EventHubsSender\\EventHubsSender.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vijay\\source\\repos\\AzureEventHubs\\EventHubsQuickStart\\EventHubsSender\\EventHubsSender.csproj": {
+    "C:\\Users\\vijay\\source\\repos\\AzureEventHubs\\AzureEventHubs\\EventHubsQuickStart\\EventHubsSender\\EventHubsSender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vijay\\source\\repos\\AzureEventHubs\\EventHubsQuickStart\\EventHubsSender\\EventHubsSender.csproj",
+        "projectUniqueName": "C:\\Users\\vijay\\source\\repos\\AzureEventHubs\\AzureEventHubs\\EventHubsQuickStart\\EventHubsSender\\EventHubsSender.csproj",
         "projectName": "EventHubsSender",
-        "projectPath": "C:\\Users\\vijay\\source\\repos\\AzureEventHubs\\EventHubsQuickStart\\EventHubsSender\\EventHubsSender.csproj",
+        "projectPath": "C:\\Users\\vijay\\source\\repos\\AzureEventHubs\\AzureEventHubs\\EventHubsQuickStart\\EventHubsSender\\EventHubsSender.csproj",
         "packagesPath": "C:\\Users\\vijay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vijay\\source\\repos\\AzureEventHubs\\EventHubsQuickStart\\EventHubsSender\\obj\\",
+        "outputPath": "C:\\Users\\vijay\\source\\repos\\AzureEventHubs\\AzureEventHubs\\EventHubsQuickStart\\EventHubsSender\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
